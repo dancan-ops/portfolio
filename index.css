@@ -1,0 +1,115 @@
+@media screen and (max-width: 600px) {
+	.imag {
+		width: 30vw !important;
+	}
+
+	h1{
+		font-size: 9vw;
+	}
+	
+}
+
+
+body{
+	background-color: #28393C;
+	background-size: cover;
+	background-position: right;
+	color: white;
+	overflow-x: hidden;
+}
+
+.a{ margin-top: 30px;
+	height: 1vh;
+	text-align: center;
+	font-size: 15vh;
+	font-family: 'Freestyle Script';
+	color: #E66600;
+}
+
+
+.one{
+	background-image: url(IMG_20240308_061944_69.jpg);
+	background-size: cover;
+	width: 100vw;
+	margin-left: -9px;
+	display: flex;
+	height: auto;
+}
+
+.left{
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	padding-right: 1vw;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5); 
+}
+
+ h1,p{
+	
+	padding-right: 3vw;
+	color: #A66129;
+}
+
+p{
+	font-family: 'Freestyle Script';
+	font-size: 4vh;
+	font-style: italic;
+	padding-right: 3vw;
+}
+
+hr{
+	border-color: #E66600;
+}
+
+.imune{
+	text-align: left;
+	padding-left: 2vw;
+	color: white;
+
+}
+
+.right{
+	text-align: right;
+	font-size: 2vw;
+	width: 100%;
+}
+
+strong{
+	font-size: 4vh;
+}
+
+.two{
+	margin-top: 7vh;
+	background:linear-gradient(to right, #7AE4FA, rgba(122, 228, 250, 0.2));
+	border-radius: 2px;
+
+}
+
+h2{
+	font-size: 2vw;
+	padding: 1vw;
+}
+
+.projects{
+	display: flex;
+	justify-content: center;
+	padding: 3vw;
+}
+
+.paragraph{
+	width: 45vw;
+}
+
+.info{
+	font-family: 'Comic Sans MS';
+	font-size: 2vw;
+}
+
+.images{
+	display: flex;
+	padding-top: 2vh;
+	justify-content: space-between;
+}
+
+.images img{
+	padding-left: 1vw;
+}
